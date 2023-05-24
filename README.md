@@ -2,7 +2,11 @@
 
 ## Your Task
 
-This week's Challenge requires you to build a timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface.
+At some point in your journey to become a full-stack web developer, you’ll likely be asked to complete a coding assessment&mdash;perhaps as part of an interview process. A typical coding assessment includes both multiple-choice questions and interactive coding challenges. 
+
+To help familiarize you with these tests and allow you to use the skills covered in this module, this Challenge invites you to build a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. 
+
+This week’s coursework will equip you with all the skills you need to succeed in this assignment.
 
 ## User Story
 
@@ -31,6 +35,7 @@ THEN I can save my initials and score
 
 The following image shows the web application's appearance and functionality:
 
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
 
 ## Grading Requirements
 
@@ -88,5 +93,5 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
 
-- - -
+---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
