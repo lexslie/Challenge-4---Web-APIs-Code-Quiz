@@ -35,7 +35,7 @@ THEN I can save my initials and score
 
 The following image shows the web application's appearance and functionality:
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./assets/Screenshot%202023-05-25%20at%209.58.42%20PM.png)
 
 ## Grading Requirements
 
