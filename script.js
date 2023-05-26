@@ -63,7 +63,7 @@ function displayQuestions() {
             score += secondsLeft;
           } else {
             score -= 10;
-            secondsLeft = secondsLeft - 15;
+            secondsLeft = secondsLeft - 10;
           }
           
           questionDiv.innerHTML = "";
