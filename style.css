@@ -1,15 +1,32 @@
-.highscores {
-
+/* .highscores {
+    text-align: left;
 }
 
 .timer {
-
+    text-align: right;
 }
 
 .intro {
-
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: larger;
+    padding-top: 25px;
+}
+.startButton {
+  border-radius: 5px;
+  color: #13293d;
+  cursor: pointer;
+  font-size: 1.5em;
+  letter-spacing: 0.21px;
+  line-height: 16px;
+  max-width: 255px;
+  padding: 20px 52px;
+  text-align: center;
+  margin-top: 0.6em;
 }
 
 .questions {
-    
-}
+    text-align: center;
+    font-size: x-large;
+} */

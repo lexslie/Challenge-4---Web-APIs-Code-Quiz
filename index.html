@@ -9,51 +9,27 @@
 </head>
 
 <body>
-    <div class="highscores">
-        <a href="./highscores.html"> View Highscores </a>
-    </div>
+    <input id="view-scores" type="button" value="View Highscores">
 
-    <div class="timer"> 
-        <h3> Time: </h3>
-    </div>
-
+    <span id="timer">Time: 0</span>
+    
     <div class="intro">
         <h1> Coding JavaScript Quiz </h1>
-        <h2> Try to answer the following questions on JavaScript under the time limit provided. Note that 10 seconds will be deducted from your timer every time you get a question wrong.</h2>
+        <h2> Try to answer the following questions on JavaScript under the time limit provided. Note that time will be deducted from your timer every time you get a question wrong.</h2>
     </div>
 
-    <div class="questions">
-        <h3>Question 1: 
-            a. 
-            b.
-            c. 
-            d.
-        </h3>
-        <h3>Question 2: 
-            a. 
-            b.
-            c. 
-            d.
-        </h3>
-        <h3>Question 3: 
-            a. 
-            b.
-            c. 
-            d.
-        </h3>
-        <h3>Question 4: 
-            a. 
-            b.
-            c. 
-            d.
-        </h3>
-        <h3>Question 5: 
-            a. 
-            b.
-            c. 
-            d.
-        </h3>
+    <div id="scores"></div>
+    
+    <div id="questions"></div>
+    
+    <div id="choices"></div>
+    
+    <form id="results"></form>
+
+    <div id="buttons">
+      <input id="start-button" type="button" value="Start Quiz">
     </div>
 
     <script src="./script.js"></script>
+    <script src="./questions.js"></script>
 </body>
